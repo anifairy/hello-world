@@ -1,3 +1,3 @@
 # hello-world
 My first repository 
-I'm new to github so I don't know what I am doing.
+I'm new to github so I don't know what I am doing. I guess I am learning though huh...
